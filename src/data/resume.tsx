@@ -198,6 +198,29 @@ export const DATA = {
       image: "/pysduck.jpg",
     },
     {
+      title: "Intel AI Students Club Website",
+      href: "https://github.com/IASC-DYPCOE/IASC",
+      dates: "August 2024 - Present",
+      active: true,
+      description:
+        "Developed and currently maintaining the official website for the Intel AI Students Club",
+      technologies: [
+        "Python",
+        "Django",
+        "TailwindCSS",
+        "FlowbiteCSS",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Live",
+          href: "https://iasc.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/iasc_website.png",
+    },
+    {
       title: "Mopi",
       href: "https://github.com/capybara-brain346/mopi",
       dates: "June 2024 - July 2024",
