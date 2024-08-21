@@ -133,20 +133,20 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Elpro International School",
-      href: "https://elproschools.edu.in/",
-      degree: "High School",
-      logoUrl: "/buildspace.jpg",
-      start: "2012",
-      end: "2022",
-    },
-    {
       school: "D.Y.Patil College of Engineering, Akurdi",
       href: "http://www.dypcoeakurdi.ac.in/",
       degree: "Bachelor's Degree of Artificial Intelligence & Data Science",
       logoUrl: "/buildspace.jpg",
       start: "2022",
       end: "Present",
+    },
+    {
+      school: "Elpro International School",
+      href: "https://elproschools.edu.in/",
+      degree: "High School",
+      logoUrl: "/buildspace.jpg",
+      start: "2012",
+      end: "2022",
     },
   ],
   projects: [
@@ -244,7 +244,7 @@ export const DATA = {
       dates: "Feb 8th, 2024",
       location: "Pune, India",
       description:
-        "Developed a Deep Learning model to classify lung cancer CT-Scans. Achieved 4th Rank",
+        "Developed a Deep Learning model to classify lung cancer CT-Scans. Achieved 4th Rankpnpn",
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
