@@ -11,7 +11,16 @@ export const DATA = {
   summary:
     "Currently in my Third Year of my Artificial Intelligence & Data Science Degree @ DYPCOE, Akurdi",
   avatarUrl: "/me.png",
-  skills: ["Python", "Go", "Postgres", "Sqlite3", "Django", "Flask/FastAPI"],
+  skills: [
+    "Python",
+    "Go",
+    "Postgres",
+    "Sqlite3",
+    "Django",
+    "FastAPI",
+    "Git",
+    "Bash",
+  ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
