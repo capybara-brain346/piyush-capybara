@@ -75,7 +75,7 @@ export default async function Blog({
             image: post.metadata.image
               ? `${DATA.url}${post.metadata.image}`
               : `${DATA.url}/og?title=${post.metadata.title}`,
-            url: `${DATA.url}/blog/${post.slug}`,
+            url: `https://github.com/capybara-brain346/my-resume/blob/main/Piyush%20Choudhari%20Resume.pdf`,
             author: {
               "@type": "Person",
               name: DATA.name,

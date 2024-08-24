@@ -23,7 +23,11 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    {
+      href: "https://github.com/capybara-brain346/my-resume/blob/main/Piyush%20Choudhari%20Resume.pdf",
+      icon: NotebookIcon,
+      label: "Resume",
+    },
   ],
   contact: {
     email: "choudhari.piyush@gmail.com",
