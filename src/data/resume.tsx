@@ -257,7 +257,7 @@ export const DATA = {
       dates: "Feb 8th, 2024",
       location: "Pune, India",
       description:
-        "Developed a Deep Learning model to classify lung cancer CT-Scans. Achieved 4th Rank",
+        "Developed a Deep Learning model to classify lung cancer CT-Scans. Achieved 4th Rank.",
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
