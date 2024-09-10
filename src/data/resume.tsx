@@ -212,7 +212,7 @@ export const DATA = {
     },
     {
       title: "Intel AI Students Club Website",
-      href: "https://github.com/IASC-DYPCOE/IASC",
+      href: "https://iasc-web2.vercel.app/",
       dates: "August 2024 - Present",
       active: true,
       description:
@@ -227,7 +227,7 @@ export const DATA = {
       links: [
         {
           type: "Live",
-          href: "https://iasc.vercel.app/",
+          href: "https://iasc-web2.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
