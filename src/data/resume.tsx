@@ -18,6 +18,7 @@ export const DATA = {
     "Sqlite3",
     "Django",
     "FastAPI",
+    "Langchain",
     "Git",
     "Bash",
   ],
