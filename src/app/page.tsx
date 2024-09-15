@@ -203,7 +203,10 @@ export default function Page() {
                 >
                   with a direct question on LinkedIn
                 </Link>{" "}
-                and I&apos;ll respond whenever I can.
+                or email me at{" "}
+                <u>
+                  <b>choudhari.piyush@gmail.com</b>
+                </u>
               </p>
             </div>
           </BlurFade>
