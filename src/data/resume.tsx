@@ -7,7 +7,7 @@ export const DATA = {
   url: "https://www.linkedin.com/in/piyush-choudhari",
   location: "Pune, India 🇮🇳",
   locationLink: "https://maps.app.goo.gl/8YTbFE2iRWybqwhr9",
-  description: "Python Developer & Data Analyst",
+  description: "Python Developer & Data Analyst Based In India 🇮🇳",
   summary:
     "Currently in my Third Year of my Artificial Intelligence & Data Science Degree @ DYPCOE, Akurdi",
   avatarUrl: "/me.png",
