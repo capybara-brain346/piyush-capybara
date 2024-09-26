@@ -55,6 +55,13 @@ export const DATA = {
 
         navbar: true,
       },
+      Hackerank: {
+        name: "X",
+        url: "https://www.hackerrank.com/profile/choudhari_piyush",
+        icon: Icons.hackerank,
+
+        navbar: true,
+      },
       // Youtube: {
       //   name: "Youtube",
       //   url: "https://dub.sh/dillion-youtube",
