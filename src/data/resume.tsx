@@ -172,6 +172,29 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "AI Based Resume Screener",
+      href: "https://github.com/capybara-brain346/resume-screener-ai",
+      dates: "Sept 2024",
+      active: true,
+      description: "",
+      technologies: [
+        "Python",
+        "Langchain",
+        "Gemini-1.5-Flash",
+        "Reactjs",
+        "Flask",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Repository",
+          href: "https://github.com/capybara-brain346/resume-screener-ai",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/ai_resume_screener.png",
+    },
+    {
       title: "RecycleNet18",
       href: "https://github.com/capybara-brain346/RecycleNet18",
       dates: "Jun 2024",
