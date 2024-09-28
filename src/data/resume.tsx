@@ -200,7 +200,7 @@ export const DATA = {
       dates: "Jun 2024",
       active: true,
       description:
-        "RecycleNet is a deep learning-based project designed to classify images of recyclable items into 30 distinct categories. Alongside the classification model, a chatbot is integrated to assist users in understanding how to recycle the identified items properly. The goal is to promote effective recycling practices and reduce environmental waste.",
+        "RecycleNet is a deep learning-based project designed to classify images of recyclable items into 30 distinct categories.",
       technologies: [
         "Python",
         "Pytorch",
